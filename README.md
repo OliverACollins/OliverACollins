@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Oliver, and I am an undergraduate Psychology student at the University of Sussex!
+
+Outside of education, my interests include playing guitar 🎸, go-karting 🏎, and building Lego 🧱.
