@@ -3,9 +3,9 @@
 My name is Oliver, and I am an undergraduate Psychology student, and current Placement Research Assistant, at the University of Sussex!
 
 My academic interests include:
-- Human perception (within psychology and cognitive and clinical neuroscience)
-- Psychophysiology
-- Metascience and research methods
+- Human perception (within psychology and cognitive and clinical neuroscience) 👁️
+- Psychophysiology 🧠🫀
+- Metascience and research methods 🔬
 
 I am particularly interested in the development of software aiding research in psychophysiology, such as human-computer interfaces.
 
