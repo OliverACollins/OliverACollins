@@ -1,19 +1,12 @@
 ## Hi there 👋
 
-<!--
-**OliverACollins/OliverACollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 My name is Oliver, and I am an undergraduate Psychology student at the University of Sussex!
 
-Outside of education, my interests include playing guitar 🎸, go-karting 🏎, and building Lego 🧱
+My academic interests include:
+- Human perception (within psychology and cognitive and clinical neuroscience)
+- Psychophysiology
+- Metascience and research methods
+
+I am particularly interested in the development of software aiding research in psychophysiology, such as human-computer interfaces.
+
+Outside of education, my interests include playing guitar 🎸, go-karting 🏎, and building LEGO 🧱
