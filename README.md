@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Oliver, and I am an undergraduate Psychology student at the University of Sussex!
+My name is Oliver, and I am an undergraduate Psychology student, and Placement Research Assistant, at the University of Sussex!
 
 My academic interests include:
 - Human perception (within psychology and cognitive and clinical neuroscience)
