@@ -12,6 +12,7 @@ I am particularly interested in the development of software aiding research in p
 Outside of education, my interests include playing guitar 🎸, go-karting 🏎, and building LEGO 🧱
 
 ### Research Projects ###
+- [IllusionGamePhysio](https://github.com/RealityBending/IllusionGamePhysio): Testing the relationship between visual illusion sensitivity and physiological signals
 - [IllusionGamePhenomenologicalControl](https://github.com/RealityBending/IllusionGamePhenomenologicalControl): Testing the relationship between visual illusion sensitivity and phenomenological control
 - [IllusionGameSuggestibility](https://github.com/RealityBending/IllusionGameSuggestibility): Examining the relationship between visual illusion sensitivity and suggestibility
 - [FictionEroPhysio](https://github.com/RealityBending/FictionEroPhysio): Investigating the relationship between reality and sexual arousal, using physiological measures
